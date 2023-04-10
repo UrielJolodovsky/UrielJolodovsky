@@ -1,7 +1,7 @@
 ### Hi there, I'm Uriel Jolodovsky 👋
 
 
-### My Go-To tools
+### My Go-To Tools
 
 - Express
 - Node
@@ -9,6 +9,8 @@
 
 
 ### Some stats I found cool
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJolodovsky&theme=highcontrast&layout=compact&langs\_count=6)](https://github.com/UrielJolodovsky/github-readme-stats)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrielJolodovsky&count_private=true&show_icons=true&theme=dark)](https://github.com/UrielJolodovsky)
 
