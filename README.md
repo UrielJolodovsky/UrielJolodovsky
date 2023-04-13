@@ -14,7 +14,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrielJolodovsky&count_private=true&show_icons=true&theme=dark)](https://github.com/UrielJolodovsky)
 
-[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UrielJolodovsky&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=UrielJolodovsky&theme=transparent)](https://git.io/streak-stats)
 <!--
 **UrielJolodovsky/UrielJolodovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
