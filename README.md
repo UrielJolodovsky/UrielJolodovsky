@@ -1,12 +1,13 @@
 ### Hi there, I'm Uriel Jolodovsky 👋
 
-### My used Tools
+### My most used Tools
 
 - Express
 - Node
 - Next
 - React
 - Prisma
+- TypeScript
 - Unity
 
 ### Some stats I found cool
