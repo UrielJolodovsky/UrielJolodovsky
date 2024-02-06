@@ -17,7 +17,6 @@
 ## 🌱 I’m currently learning at:
  - ORT Argentina: I'm studying at that high school since 2018 
 ##  🔭 I’m currently working on:
- - Museon: I'm doing the Backend of this web which idea is to bring the museums to the door of your house by scanning and uploading it in the web to navigate in a 3D way with your computer or phone.
  - Portfolio web: I'm doing a web in Astro to show the world my programming skills and a little bit about me. There I will concentrate all the information related to programming and other interests I have.
  - Wordle: I'm creating a Wordle game to develop my skills as a FullStack developer, such as Tailwind, React and TypeScript.
 ### Some stats I found cool
