@@ -16,9 +16,10 @@
 
 ## 🌱 I’m currently learning at:
  - ORT Argentina: I'm studying at that high school since 2018 
-##  🔭 I’m currently working on:
+##  🔭 I’m currently working on/as:
  - Portfolio web: I'm doing a web in Astro to show the world my programming skills and a little bit about me. There I will concentrate all the information related to programming and other interests I have.
  - Wordle: I'm creating a Wordle game to develop my skills as a FullStack developer, such as Tailwind, React and TypeScript.
+ - Freelance Developer: By doing backend and frontend, I'm working alone listening to people requests.
 ### Some stats I found cool
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJolodovsky&theme=highcontrast&layout=compact&langs\_count=6)](https://github.com/UrielJolodovsky/github-readme-stats)
